@@ -67,6 +67,6 @@ The purpose of this project is to visualize the bike sharing program in Des Moin
 >Majority of the riders are Males (65%), campared to all other genders. Wednesays have less hours compared to the rest of the week, whilst Thursdays has proven to be busiest day especialy with the male genders. During the week, the busiest times are those that occur between the times before (6 am to 10) and after work (5pm and 8pm).On Weekends, particullary Saturdays, the days are remains highest with the male subscibers and are more frequent between 10am and 5pm
 >
 >### Two additional visualizations that could be performed with the given dataset are:
-1. Visualization can be pased on the location to find out which location has the highest usage station iDs
+1. Visualization can be pased on the location to find out which location has the highest usage station IDs
 2. Another visualization could be distance travelled using the bike ID along with station ID (start and end)
 3. Similar to the gender type analysis, another could be conducted using the age, to odentify which age group uses the services more, and this could also be compared against gender as well to tell an even more imformative story
