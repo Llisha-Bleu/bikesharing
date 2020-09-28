@@ -1,5 +1,5 @@
 # bikesharing
-New project on Mission to Mars analysis. Adjusting the current web app.
+New project on Bike sharing analysis. Creating visualizations for investors proposal.
 
 ## Project Overview
 Using knowledge of Tableau to visualize the bike-sharing program in Des Moines as a solid business proposal to investors. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
