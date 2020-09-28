@@ -21,6 +21,14 @@ The purpose of this project is to visualize the bike sharing program in Des Moin
 - **Software:** `VS Code`, `Jupyer Notebook`, `Anaconda`, `GitHub`, `Tableau Public`
 
 ## NYC Citibike Analysis Results
+>### Customer Type
+>
+> There are a total of `2,344,224` rides in the NYC area. More than 80%, are found to be subscribers. This suggest that majority of the users are daily commuters, with more than 60% being males.
+>
+>**Image showing the Checkout Times by User Storyboard:**
+>
+>![customer_type](./Resources/customer_type.png)
+>
 >
 ### Checkout Times by User
 >
