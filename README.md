@@ -62,6 +62,17 @@ The purpose of this project is to visualize the bike sharing program in Des Moin
 >
 >![User_Trips_by_Gender_Weekday](./Resources/User_Trips_by_Gender_Weekday.png)
 >
+### Top Starting and Ending Location
+>
+> The top starting and ending location is in Manahattan, a tourist location, as well as central location for work offices and much other recreational activities. This city is dense and highly populated, which would make biking an easier, convenient way to commute through the city.
+>
+>**Image showing the Top Starting Location Storyboard:**
+>
+>![Top_Starting_Location](./Resources/Top_Starting_Location.png)
+>
+>**Image showing the Top Ending Location Storyboard:**
+>
+>![Top_Ending_Location](./Resources/Top_Ending_Location.png)
 >
 ## Summary
 >Majority of the riders are Males (65%), campared to all other genders. Wednesays have less hours compared to the rest of the week, whilst Thursdays has proven to be busiest day especialy with the male genders. During the week, the busiest times are those that occur between the times before (6 am to 10) and after work (5pm and 8pm).On Weekends, particullary Saturdays, the days are remains highest with the male subscibers and are more frequent between 10am and 5pm
