@@ -24,7 +24,7 @@ The purpose of this project is to visualize the bike sharing program in Des Moin
 >
 ### Checkout Times by User
 >
-> Trip duration thats occur between 4 and 5 hours accounts for more than 20% of total number of rides
+> Trip duration thats occur between 4, 5, and 6 hours accounts for more than 20% of total number of rides
 >
 >**Image showing the Checkout Times by User Storyboard:**
 >
