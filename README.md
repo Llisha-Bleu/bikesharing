@@ -17,7 +17,7 @@ The purpose of this project is to visualize the bike sharing program in Des Moin
 
 ## Resources
 - **Webpage:** [link to dashboard](https://public.tableau.com/profile/allisha.samuels#!/vizhome/NYCCitibikeAnalysis_16012480265000/NYCCitibikeAnalysis/ "link to dashboard")
-- **Data Source:** `NYC citibank starter code`, `index.html`, `samples.json`, `image.jpg`
+- **Data Source:** `NYC citibank starter code`, `201908-citibike-tripdata-v2`
 - **Software:** `VS Code`, `Jupyer Notebook`, `Anaconda`, `GitHub`, `Tableau Public`
 
 ## NYC Citibike Analysis Results
